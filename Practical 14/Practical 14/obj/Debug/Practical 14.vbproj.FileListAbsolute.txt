@@ -1,0 +1,68 @@
+D:\.net\Practical 14\Practical 14\bin\Practical 14.dll
+D:\.net\Practical 14\Practical 14\bin\Practical 14.pdb
+D:\.net\Practical 14\Practical 14\bin\Practical 14.xml
+D:\.net\Practical 14\Practical 14\bin\Antlr3.Runtime.dll
+D:\.net\Practical 14\Practical 14\bin\AspNet.ScriptManager.jQuery.dll
+D:\.net\Practical 14\Practical 14\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\.net\Practical 14\Practical 14\bin\DotNetOpenAuth.AspNet.dll
+D:\.net\Practical 14\Practical 14\bin\DotNetOpenAuth.Core.dll
+D:\.net\Practical 14\Practical 14\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\.net\Practical 14\Practical 14\bin\DotNetOpenAuth.OAuth.dll
+D:\.net\Practical 14\Practical 14\bin\DotNetOpenAuth.OpenId.dll
+D:\.net\Practical 14\Practical 14\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\.net\Practical 14\Practical 14\bin\EntityFramework.dll
+D:\.net\Practical 14\Practical 14\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\.net\Practical 14\Practical 14\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\.net\Practical 14\Practical 14\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\.net\Practical 14\Practical 14\bin\Microsoft.ScriptManager.WebForms.dll
+D:\.net\Practical 14\Practical 14\bin\Microsoft.Web.Infrastructure.dll
+D:\.net\Practical 14\Practical 14\bin\System.Web.Optimization.dll
+D:\.net\Practical 14\Practical 14\bin\System.Web.Providers.dll
+D:\.net\Practical 14\Practical 14\bin\WebGrease.dll
+D:\.net\Practical 14\Practical 14\bin\EntityFramework.xml
+D:\.net\Practical 14\Practical 14\bin\DotNetOpenAuth.Core.xml
+D:\.net\Practical 14\Practical 14\bin\DotNetOpenAuth.OAuth.xml
+D:\.net\Practical 14\Practical 14\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\.net\Practical 14\Practical 14\bin\DotNetOpenAuth.OpenId.xml
+D:\.net\Practical 14\Practical 14\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\.net\Practical 14\Practical 14\bin\DotNetOpenAuth.AspNet.xml
+D:\.net\Practical 14\Practical 14\obj\Debug\Practical 14.vbprojResolveAssemblyReference.cache
+D:\.net\Practical 14\Practical 14\obj\Debug\Practical_14.Resources.resources
+D:\.net\Practical 14\Practical 14\obj\Debug\Practical 14.vbproj.GenerateResource.Cache
+D:\.net\Practical 14\Practical 14\obj\Debug\Practical 14.dll
+D:\.net\Practical 14\Practical 14\obj\Debug\Practical 14.xml
+D:\.net\Practical 14\Practical 14\obj\Debug\Practical 14.pdb
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\Practical 14.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\Practical 14.pdb
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\Practical 14.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\Antlr3.Runtime.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\AspNet.ScriptManager.jQuery.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\DotNetOpenAuth.AspNet.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\DotNetOpenAuth.Core.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\DotNetOpenAuth.OAuth.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\DotNetOpenAuth.OpenId.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\EntityFramework.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\Microsoft.Web.Infrastructure.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\System.Web.Optimization.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\System.Web.Providers.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\WebGrease.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\EntityFramework.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\DotNetOpenAuth.Core.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\DotNetOpenAuth.OAuth.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\DotNetOpenAuth.OpenId.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\bin\DotNetOpenAuth.AspNet.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\obj\Debug\Practical 14.vbprojResolveAssemblyReference.cache
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\obj\Debug\Practical_14.Resources.resources
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\obj\Debug\Practical 14.vbproj.GenerateResource.Cache
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\obj\Debug\Practical 14.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\obj\Debug\Practical 14.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Practical 14\Practical 14\obj\Debug\Practical 14.pdb

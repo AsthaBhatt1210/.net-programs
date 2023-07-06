@@ -1,0 +1,82 @@
+1. Getting acquainted with Visual Studio environment. (create new web project, open existing web project, building website, and study of toolbars, menu etc.)
+
+
+2. a program to display “Welcome To Radiant” in the form when the “click” button is clicked. The
+form title must be ASP.NET. Also diplays a button in green color and it should change into yellow when the mouse
+moves over it.
+pra2
+
+3. Create an application which will ask the user to input his name and a message, display the two items concatenated in a label, and change the format of the
+ label using radio buttons and check boxes for selection , the user can make the label text bold ,underlined or italic and change its color .Include buttons to
+ display the message in the label, clear the text boxes and label and exit.
+pra3
+
+
+4. Programs using ASP.NET Server controls. Create the application that accepts name, password ,age , email id, and user id. All the information entry is 
+compulsory. Password should be reconfirmed. Age should be within 21 to 30. Email id should be valid. User id should have at least a capital letter and digit 
+as well as length should be between 7 and 20 characters.
+pra4
+
+
+5. Create a Form that receives the Name, Rollno, Password, Confirm Password, Semester, Percentage, E-mailid, City, Ph no, mobile no. Apply regular expression 
+to all fields as well as required field validator , use compare validator in confirm password . Display all validation in a summary.
+pra5
+
+6. Write a program to set the font-Arial , font style-bond , font size-18px of different controls(ie. Label, textbox, button) using css.
+pra6
+
+7. Create a web page using the concept ofThemes and Skins in ASP.NET
+pra7
+
+8. Create home page of your website using concept of Master page
+Masterpage
+
+9. Develop a web page to implement the concept of state management using ViewState and QueryString.
+pra9QueryString
+Viewstate
+
+10. To create a website includes cookies state using state management techniques.
+cookiespra10
+
+
+11. Develop a web page to implement the concept of state management using Session and Application.
+sessionpra11
+Applicationpra11
+
+
+12. Create a web application using Global.asax file which will count the number of visitors on web page
+pra12
+
+13. Use various tags in Web.config file for ASP.NET configuration.
+webconfig
+
+
+14. Write sample application to connect to database (connection object), Fetching and inserting data from database (command object) and using Data Reader.
+
+
+15. Create a Web page and test the connectivity of your database with registration form . If connected, display the message that connection with database is 
+successful, and redirect the user to his Login Page.
+pra15
+
+16. Create a login page in your web application. Login page must have user name and password fields. If user enters correct ID, Password, he must be redirected 
+to the homepage of your website. Display the information about user on his homepage once he has logged in through the login form.Also create a forgot password 
+link, to redirect user to set up his new password on authentication.
+pra16
+
+
+17. Create account settings web page , to allow the user to ADD, UPDATE his profile once he has logged into the website using Bound and Unbound Controls.
+Practical 17
+
+18. Create a webpage to bind the user data from database into a gridview dynamically.
+pra18
+
+19. Create a simple web application that integrates the above concepts of ASP.NET into your application. Suggestive web application can be your own Personal 
+website and host on free domain, Your department website etc, database into a gridview dynamically.
+
+Database => All the queries in one page
+Databaseconnection => Connection successfully message
+Databasegridview => Display table
+Databaseinsert => Insert data atb run time
+Databasesort => sorted the data at output time
+Databasedropdownlistbox => shows the dropdown
+

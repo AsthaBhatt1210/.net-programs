@@ -1,0 +1,27 @@
+﻿<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+
+
+<asp:Label runat="server" SkinID="l1" ForeColor="#004000" Font-Names="Verdana" Font-Size="x-Small"></asp:Label>
+<asp:TextBox runat="server" SkinID="t1"  ForeColor="#004000" Font-Names="Verdana" Font-Size="x-Small" BorderStyle="Solid"
+  BorderWidth="1px" BorderColor="#004000" Font-Bold="True"></asp:TextBox>
+<asp:TextBox runat="server" SkinID="t2"  ForeColor="#004000" Font-Names="Verdana" Font-Size="x-Small" BorderStyle="Dotted"
+ BorderWidth="5px" BorderColor="#000000" Font-Bold="False" ></asp:TextBox>
+<asp:TextBox runat="server" SkinID="t3"  ForeColor="#000000" Font-Names="Arial" Font-Size="x-Large" BorderStyle="Dashed" 
+BorderWidth="3px" BorderColor="#000000" Font-Bold="False"></asp:TextBox>
+<asp:button runat="server" SkinID="t3"  ForeColor="#004000" Font-Names="Verdana" Font-Size="x-Small" BorderStyle="Solid"
+  BorderWidth="1px" BorderColor="#004000" Font-Bold="True" BackColor="#FFE0C0"/>
+

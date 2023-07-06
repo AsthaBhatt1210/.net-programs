@@ -1,0 +1,8 @@
+﻿body,div,p
+{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(251, 229, 104);
+    font-family: Arial,Verdana;
+    font-size: 18px;
+}

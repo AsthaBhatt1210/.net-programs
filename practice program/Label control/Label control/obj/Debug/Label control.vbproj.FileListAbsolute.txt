@@ -1,0 +1,34 @@
+D:\.net\Label control\Label control\bin\Label control.dll
+D:\.net\Label control\Label control\bin\Label control.pdb
+D:\.net\Label control\Label control\bin\Label control.xml
+D:\.net\Label control\Label control\bin\Antlr3.Runtime.dll
+D:\.net\Label control\Label control\bin\AspNet.ScriptManager.jQuery.dll
+D:\.net\Label control\Label control\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\.net\Label control\Label control\bin\DotNetOpenAuth.AspNet.dll
+D:\.net\Label control\Label control\bin\DotNetOpenAuth.Core.dll
+D:\.net\Label control\Label control\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\.net\Label control\Label control\bin\DotNetOpenAuth.OAuth.dll
+D:\.net\Label control\Label control\bin\DotNetOpenAuth.OpenId.dll
+D:\.net\Label control\Label control\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\.net\Label control\Label control\bin\EntityFramework.dll
+D:\.net\Label control\Label control\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\.net\Label control\Label control\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\.net\Label control\Label control\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\.net\Label control\Label control\bin\Microsoft.ScriptManager.WebForms.dll
+D:\.net\Label control\Label control\bin\Microsoft.Web.Infrastructure.dll
+D:\.net\Label control\Label control\bin\System.Web.Optimization.dll
+D:\.net\Label control\Label control\bin\System.Web.Providers.dll
+D:\.net\Label control\Label control\bin\WebGrease.dll
+D:\.net\Label control\Label control\bin\EntityFramework.xml
+D:\.net\Label control\Label control\bin\DotNetOpenAuth.Core.xml
+D:\.net\Label control\Label control\bin\DotNetOpenAuth.OAuth.xml
+D:\.net\Label control\Label control\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\.net\Label control\Label control\bin\DotNetOpenAuth.OpenId.xml
+D:\.net\Label control\Label control\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\.net\Label control\Label control\bin\DotNetOpenAuth.AspNet.xml
+D:\.net\Label control\Label control\obj\Debug\Label control.vbprojResolveAssemblyReference.cache
+D:\.net\Label control\Label control\obj\Debug\Label_control.Resources.resources
+D:\.net\Label control\Label control\obj\Debug\Label control.vbproj.GenerateResource.Cache
+D:\.net\Label control\Label control\obj\Debug\Label control.dll
+D:\.net\Label control\Label control\obj\Debug\Label control.xml
+D:\.net\Label control\Label control\obj\Debug\Label control.pdb

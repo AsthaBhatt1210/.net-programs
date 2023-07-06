@@ -1,0 +1,34 @@
+D:\.net\Checkbox control\Checkbox control\bin\Checkbox control.dll
+D:\.net\Checkbox control\Checkbox control\bin\Checkbox control.pdb
+D:\.net\Checkbox control\Checkbox control\bin\Checkbox control.xml
+D:\.net\Checkbox control\Checkbox control\bin\Antlr3.Runtime.dll
+D:\.net\Checkbox control\Checkbox control\bin\AspNet.ScriptManager.jQuery.dll
+D:\.net\Checkbox control\Checkbox control\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\.net\Checkbox control\Checkbox control\bin\DotNetOpenAuth.AspNet.dll
+D:\.net\Checkbox control\Checkbox control\bin\DotNetOpenAuth.Core.dll
+D:\.net\Checkbox control\Checkbox control\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\.net\Checkbox control\Checkbox control\bin\DotNetOpenAuth.OAuth.dll
+D:\.net\Checkbox control\Checkbox control\bin\DotNetOpenAuth.OpenId.dll
+D:\.net\Checkbox control\Checkbox control\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\.net\Checkbox control\Checkbox control\bin\EntityFramework.dll
+D:\.net\Checkbox control\Checkbox control\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\.net\Checkbox control\Checkbox control\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\.net\Checkbox control\Checkbox control\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\.net\Checkbox control\Checkbox control\bin\Microsoft.ScriptManager.WebForms.dll
+D:\.net\Checkbox control\Checkbox control\bin\Microsoft.Web.Infrastructure.dll
+D:\.net\Checkbox control\Checkbox control\bin\System.Web.Optimization.dll
+D:\.net\Checkbox control\Checkbox control\bin\System.Web.Providers.dll
+D:\.net\Checkbox control\Checkbox control\bin\WebGrease.dll
+D:\.net\Checkbox control\Checkbox control\bin\EntityFramework.xml
+D:\.net\Checkbox control\Checkbox control\bin\DotNetOpenAuth.Core.xml
+D:\.net\Checkbox control\Checkbox control\bin\DotNetOpenAuth.OAuth.xml
+D:\.net\Checkbox control\Checkbox control\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\.net\Checkbox control\Checkbox control\bin\DotNetOpenAuth.OpenId.xml
+D:\.net\Checkbox control\Checkbox control\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\.net\Checkbox control\Checkbox control\bin\DotNetOpenAuth.AspNet.xml
+D:\.net\Checkbox control\Checkbox control\obj\Debug\Checkbox control.vbprojResolveAssemblyReference.cache
+D:\.net\Checkbox control\Checkbox control\obj\Debug\Checkbox_control.Resources.resources
+D:\.net\Checkbox control\Checkbox control\obj\Debug\Checkbox control.vbproj.GenerateResource.Cache
+D:\.net\Checkbox control\Checkbox control\obj\Debug\Checkbox control.dll
+D:\.net\Checkbox control\Checkbox control\obj\Debug\Checkbox control.xml
+D:\.net\Checkbox control\Checkbox control\obj\Debug\Checkbox control.pdb

@@ -1,0 +1,68 @@
+D:\.net\pra9QueryString\pra9QueryString\bin\pra9QueryString.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\pra9QueryString.pdb
+D:\.net\pra9QueryString\pra9QueryString\bin\pra9QueryString.xml
+D:\.net\pra9QueryString\pra9QueryString\bin\Antlr3.Runtime.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\AspNet.ScriptManager.jQuery.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.AspNet.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.Core.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OAuth.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OpenId.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\EntityFramework.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\Microsoft.ScriptManager.WebForms.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\Microsoft.Web.Infrastructure.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\System.Web.Optimization.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\System.Web.Providers.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\WebGrease.dll
+D:\.net\pra9QueryString\pra9QueryString\bin\EntityFramework.xml
+D:\.net\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.Core.xml
+D:\.net\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OAuth.xml
+D:\.net\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\.net\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OpenId.xml
+D:\.net\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\.net\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.AspNet.xml
+D:\.net\pra9QueryString\pra9QueryString\obj\Debug\pra9QueryString.vbprojResolveAssemblyReference.cache
+D:\.net\pra9QueryString\pra9QueryString\obj\Debug\pra9QueryString.Resources.resources
+D:\.net\pra9QueryString\pra9QueryString\obj\Debug\pra9QueryString.vbproj.GenerateResource.Cache
+D:\.net\pra9QueryString\pra9QueryString\obj\Debug\pra9QueryString.dll
+D:\.net\pra9QueryString\pra9QueryString\obj\Debug\pra9QueryString.xml
+D:\.net\pra9QueryString\pra9QueryString\obj\Debug\pra9QueryString.pdb
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\pra9QueryString.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\pra9QueryString.pdb
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\pra9QueryString.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\Antlr3.Runtime.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\AspNet.ScriptManager.jQuery.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.AspNet.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.Core.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OAuth.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OpenId.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\EntityFramework.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\Microsoft.Web.Infrastructure.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\System.Web.Optimization.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\System.Web.Providers.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\WebGrease.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\EntityFramework.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.Core.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OAuth.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OpenId.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\bin\DotNetOpenAuth.AspNet.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\obj\Debug\pra9QueryString.vbprojResolveAssemblyReference.cache
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\obj\Debug\pra9QueryString.Resources.resources
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\obj\Debug\pra9QueryString.vbproj.GenerateResource.Cache
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\obj\Debug\pra9QueryString.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\obj\Debug\pra9QueryString.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra9QueryString\pra9QueryString\obj\Debug\pra9QueryString.pdb

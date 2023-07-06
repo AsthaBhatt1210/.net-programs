@@ -1,0 +1,34 @@
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\mod label button textbox.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\mod label button textbox.pdb
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\mod label button textbox.xml
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\Antlr3.Runtime.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\AspNet.ScriptManager.jQuery.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\DotNetOpenAuth.AspNet.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\DotNetOpenAuth.Core.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\DotNetOpenAuth.OAuth.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\DotNetOpenAuth.OpenId.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\EntityFramework.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\Microsoft.ScriptManager.WebForms.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\Microsoft.Web.Infrastructure.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\System.Web.Optimization.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\System.Web.Providers.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\WebGrease.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\EntityFramework.xml
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\DotNetOpenAuth.Core.xml
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\DotNetOpenAuth.OAuth.xml
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\DotNetOpenAuth.OpenId.xml
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\.net\My programs\mod label button textbox\mod label button textbox\bin\DotNetOpenAuth.AspNet.xml
+D:\.net\My programs\mod label button textbox\mod label button textbox\obj\Debug\mod label button textbox.vbprojResolveAssemblyReference.cache
+D:\.net\My programs\mod label button textbox\mod label button textbox\obj\Debug\mod_label_button_textbox.Resources.resources
+D:\.net\My programs\mod label button textbox\mod label button textbox\obj\Debug\mod label button textbox.vbproj.GenerateResource.Cache
+D:\.net\My programs\mod label button textbox\mod label button textbox\obj\Debug\mod label button textbox.dll
+D:\.net\My programs\mod label button textbox\mod label button textbox\obj\Debug\mod label button textbox.xml
+D:\.net\My programs\mod label button textbox\mod label button textbox\obj\Debug\mod label button textbox.pdb

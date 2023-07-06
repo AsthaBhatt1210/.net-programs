@@ -1,0 +1,21 @@
+﻿BtnStyle{ 
+  font-family:Times New Roman; 
+  font-size:large; 
+  font-weight:bold;
+}
+
+.Txtstyle{
+    font-family: Georgia;
+    font-size: larger;
+    font-weight: 400;
+    background-color: Maroon;
+    border: 2px solid goldenrod;
+}
+
+.Common{
+    background-color: aqua;
+    font-family: Courier New;
+    font-size: 20px;
+    font-weight: bolder;
+
+}

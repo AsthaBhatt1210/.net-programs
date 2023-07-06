@@ -1,0 +1,68 @@
+D:\.net\Applicationpra11\Applicationpra11\bin\Applicationpra11.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\Applicationpra11.pdb
+D:\.net\Applicationpra11\Applicationpra11\bin\Applicationpra11.xml
+D:\.net\Applicationpra11\Applicationpra11\bin\Antlr3.Runtime.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\AspNet.ScriptManager.jQuery.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.AspNet.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.Core.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OAuth.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OpenId.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\EntityFramework.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\Microsoft.ScriptManager.WebForms.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\Microsoft.Web.Infrastructure.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\System.Web.Optimization.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\System.Web.Providers.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\WebGrease.dll
+D:\.net\Applicationpra11\Applicationpra11\bin\EntityFramework.xml
+D:\.net\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.Core.xml
+D:\.net\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OAuth.xml
+D:\.net\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\.net\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OpenId.xml
+D:\.net\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\.net\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.AspNet.xml
+D:\.net\Applicationpra11\Applicationpra11\obj\Debug\Applicationpra11.vbprojResolveAssemblyReference.cache
+D:\.net\Applicationpra11\Applicationpra11\obj\Debug\Applicationpra11.Resources.resources
+D:\.net\Applicationpra11\Applicationpra11\obj\Debug\Applicationpra11.vbproj.GenerateResource.Cache
+D:\.net\Applicationpra11\Applicationpra11\obj\Debug\Applicationpra11.dll
+D:\.net\Applicationpra11\Applicationpra11\obj\Debug\Applicationpra11.xml
+D:\.net\Applicationpra11\Applicationpra11\obj\Debug\Applicationpra11.pdb
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\Applicationpra11.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\Applicationpra11.pdb
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\Applicationpra11.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\Antlr3.Runtime.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\AspNet.ScriptManager.jQuery.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.AspNet.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.Core.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OAuth.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OpenId.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\EntityFramework.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\Microsoft.Web.Infrastructure.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\System.Web.Optimization.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\System.Web.Providers.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\WebGrease.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\EntityFramework.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.Core.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OAuth.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OpenId.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\bin\DotNetOpenAuth.AspNet.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\obj\Debug\Applicationpra11.vbprojResolveAssemblyReference.cache
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\obj\Debug\Applicationpra11.Resources.resources
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\obj\Debug\Applicationpra11.vbproj.GenerateResource.Cache
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\obj\Debug\Applicationpra11.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\obj\Debug\Applicationpra11.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\Applicationpra11\Applicationpra11\obj\Debug\Applicationpra11.pdb

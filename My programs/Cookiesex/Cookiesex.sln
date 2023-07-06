@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cookiesex", "Cookiesex\Cookiesex.vbproj", "{90994B2B-B392-4579-A3B9-CB397FB834DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90994B2B-B392-4579-A3B9-CB397FB834DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90994B2B-B392-4579-A3B9-CB397FB834DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90994B2B-B392-4579-A3B9-CB397FB834DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90994B2B-B392-4579-A3B9-CB397FB834DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

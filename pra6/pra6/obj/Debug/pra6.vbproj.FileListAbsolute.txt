@@ -1,0 +1,68 @@
+D:\.net\pra6\pra6\bin\pra6.dll
+D:\.net\pra6\pra6\bin\pra6.pdb
+D:\.net\pra6\pra6\bin\pra6.xml
+D:\.net\pra6\pra6\bin\Antlr3.Runtime.dll
+D:\.net\pra6\pra6\bin\AspNet.ScriptManager.jQuery.dll
+D:\.net\pra6\pra6\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\.net\pra6\pra6\bin\DotNetOpenAuth.AspNet.dll
+D:\.net\pra6\pra6\bin\DotNetOpenAuth.Core.dll
+D:\.net\pra6\pra6\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\.net\pra6\pra6\bin\DotNetOpenAuth.OAuth.dll
+D:\.net\pra6\pra6\bin\DotNetOpenAuth.OpenId.dll
+D:\.net\pra6\pra6\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\.net\pra6\pra6\bin\EntityFramework.dll
+D:\.net\pra6\pra6\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\.net\pra6\pra6\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\.net\pra6\pra6\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\.net\pra6\pra6\bin\Microsoft.ScriptManager.WebForms.dll
+D:\.net\pra6\pra6\bin\Microsoft.Web.Infrastructure.dll
+D:\.net\pra6\pra6\bin\System.Web.Optimization.dll
+D:\.net\pra6\pra6\bin\System.Web.Providers.dll
+D:\.net\pra6\pra6\bin\WebGrease.dll
+D:\.net\pra6\pra6\bin\EntityFramework.xml
+D:\.net\pra6\pra6\bin\DotNetOpenAuth.Core.xml
+D:\.net\pra6\pra6\bin\DotNetOpenAuth.OAuth.xml
+D:\.net\pra6\pra6\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\.net\pra6\pra6\bin\DotNetOpenAuth.OpenId.xml
+D:\.net\pra6\pra6\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\.net\pra6\pra6\bin\DotNetOpenAuth.AspNet.xml
+D:\.net\pra6\pra6\obj\Debug\pra6.vbprojResolveAssemblyReference.cache
+D:\.net\pra6\pra6\obj\Debug\pra6.Resources.resources
+D:\.net\pra6\pra6\obj\Debug\pra6.vbproj.GenerateResource.Cache
+D:\.net\pra6\pra6\obj\Debug\pra6.dll
+D:\.net\pra6\pra6\obj\Debug\pra6.xml
+D:\.net\pra6\pra6\obj\Debug\pra6.pdb
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\pra6.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\pra6.pdb
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\pra6.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\Antlr3.Runtime.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\AspNet.ScriptManager.jQuery.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\DotNetOpenAuth.AspNet.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\DotNetOpenAuth.Core.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\DotNetOpenAuth.OAuth.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\DotNetOpenAuth.OpenId.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\EntityFramework.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\Microsoft.Web.Infrastructure.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\System.Web.Optimization.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\System.Web.Providers.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\WebGrease.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\EntityFramework.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\DotNetOpenAuth.Core.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\DotNetOpenAuth.OAuth.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\DotNetOpenAuth.OpenId.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\bin\DotNetOpenAuth.AspNet.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\obj\Debug\pra6.vbprojResolveAssemblyReference.cache
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\obj\Debug\pra6.Resources.resources
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\obj\Debug\pra6.vbproj.GenerateResource.Cache
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\obj\Debug\pra6.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\obj\Debug\pra6.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra6\pra6\obj\Debug\pra6.pdb

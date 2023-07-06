@@ -1,0 +1,68 @@
+D:\.net\pra19\pra19\bin\pra19.dll
+D:\.net\pra19\pra19\bin\pra19.pdb
+D:\.net\pra19\pra19\bin\pra19.xml
+D:\.net\pra19\pra19\bin\Antlr3.Runtime.dll
+D:\.net\pra19\pra19\bin\AspNet.ScriptManager.jQuery.dll
+D:\.net\pra19\pra19\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\.net\pra19\pra19\bin\DotNetOpenAuth.AspNet.dll
+D:\.net\pra19\pra19\bin\DotNetOpenAuth.Core.dll
+D:\.net\pra19\pra19\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\.net\pra19\pra19\bin\DotNetOpenAuth.OAuth.dll
+D:\.net\pra19\pra19\bin\DotNetOpenAuth.OpenId.dll
+D:\.net\pra19\pra19\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\.net\pra19\pra19\bin\EntityFramework.dll
+D:\.net\pra19\pra19\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\.net\pra19\pra19\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\.net\pra19\pra19\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\.net\pra19\pra19\bin\Microsoft.ScriptManager.WebForms.dll
+D:\.net\pra19\pra19\bin\Microsoft.Web.Infrastructure.dll
+D:\.net\pra19\pra19\bin\System.Web.Optimization.dll
+D:\.net\pra19\pra19\bin\System.Web.Providers.dll
+D:\.net\pra19\pra19\bin\WebGrease.dll
+D:\.net\pra19\pra19\bin\EntityFramework.xml
+D:\.net\pra19\pra19\bin\DotNetOpenAuth.Core.xml
+D:\.net\pra19\pra19\bin\DotNetOpenAuth.OAuth.xml
+D:\.net\pra19\pra19\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\.net\pra19\pra19\bin\DotNetOpenAuth.OpenId.xml
+D:\.net\pra19\pra19\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\.net\pra19\pra19\bin\DotNetOpenAuth.AspNet.xml
+D:\.net\pra19\pra19\obj\Debug\pra19.vbprojResolveAssemblyReference.cache
+D:\.net\pra19\pra19\obj\Debug\pra19.Resources.resources
+D:\.net\pra19\pra19\obj\Debug\pra19.vbproj.GenerateResource.Cache
+D:\.net\pra19\pra19\obj\Debug\pra19.dll
+D:\.net\pra19\pra19\obj\Debug\pra19.xml
+D:\.net\pra19\pra19\obj\Debug\pra19.pdb
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\pra19.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\pra19.pdb
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\pra19.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\Antlr3.Runtime.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\AspNet.ScriptManager.jQuery.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\DotNetOpenAuth.AspNet.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\DotNetOpenAuth.Core.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\DotNetOpenAuth.OAuth.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\DotNetOpenAuth.OpenId.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\EntityFramework.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\Microsoft.Web.Infrastructure.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\System.Web.Optimization.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\System.Web.Providers.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\WebGrease.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\EntityFramework.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\DotNetOpenAuth.Core.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\DotNetOpenAuth.OAuth.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\DotNetOpenAuth.OpenId.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\bin\DotNetOpenAuth.AspNet.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\obj\Debug\pra19.vbprojResolveAssemblyReference.cache
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\obj\Debug\pra19.Resources.resources
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\obj\Debug\pra19.vbproj.GenerateResource.Cache
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\obj\Debug\pra19.dll
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\obj\Debug\pra19.xml
+D:\Previous sem material sem4 & 5\5 sem material\.NET\pra19\pra19\obj\Debug\pra19.pdb

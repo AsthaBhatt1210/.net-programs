@@ -1,0 +1,34 @@
+D:\.net\Practical 17\Practical 17\bin\Practical 17.dll
+D:\.net\Practical 17\Practical 17\bin\Practical 17.pdb
+D:\.net\Practical 17\Practical 17\bin\Practical 17.xml
+D:\.net\Practical 17\Practical 17\bin\Antlr3.Runtime.dll
+D:\.net\Practical 17\Practical 17\bin\AspNet.ScriptManager.jQuery.dll
+D:\.net\Practical 17\Practical 17\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\.net\Practical 17\Practical 17\bin\DotNetOpenAuth.AspNet.dll
+D:\.net\Practical 17\Practical 17\bin\DotNetOpenAuth.Core.dll
+D:\.net\Practical 17\Practical 17\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\.net\Practical 17\Practical 17\bin\DotNetOpenAuth.OAuth.dll
+D:\.net\Practical 17\Practical 17\bin\DotNetOpenAuth.OpenId.dll
+D:\.net\Practical 17\Practical 17\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\.net\Practical 17\Practical 17\bin\EntityFramework.dll
+D:\.net\Practical 17\Practical 17\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\.net\Practical 17\Practical 17\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\.net\Practical 17\Practical 17\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\.net\Practical 17\Practical 17\bin\Microsoft.ScriptManager.WebForms.dll
+D:\.net\Practical 17\Practical 17\bin\Microsoft.Web.Infrastructure.dll
+D:\.net\Practical 17\Practical 17\bin\System.Web.Optimization.dll
+D:\.net\Practical 17\Practical 17\bin\System.Web.Providers.dll
+D:\.net\Practical 17\Practical 17\bin\WebGrease.dll
+D:\.net\Practical 17\Practical 17\bin\EntityFramework.xml
+D:\.net\Practical 17\Practical 17\bin\DotNetOpenAuth.Core.xml
+D:\.net\Practical 17\Practical 17\bin\DotNetOpenAuth.OAuth.xml
+D:\.net\Practical 17\Practical 17\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\.net\Practical 17\Practical 17\bin\DotNetOpenAuth.OpenId.xml
+D:\.net\Practical 17\Practical 17\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\.net\Practical 17\Practical 17\bin\DotNetOpenAuth.AspNet.xml
+D:\.net\Practical 17\Practical 17\obj\Debug\Practical 17.vbprojResolveAssemblyReference.cache
+D:\.net\Practical 17\Practical 17\obj\Debug\Practical_17.Resources.resources
+D:\.net\Practical 17\Practical 17\obj\Debug\Practical 17.vbproj.GenerateResource.Cache
+D:\.net\Practical 17\Practical 17\obj\Debug\Practical 17.dll
+D:\.net\Practical 17\Practical 17\obj\Debug\Practical 17.xml
+D:\.net\Practical 17\Practical 17\obj\Debug\Practical 17.pdb
